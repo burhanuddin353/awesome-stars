@@ -49,7 +49,6 @@ Given the following source:
 
 It outputs the following:
 
-```
 ## Dependency Managers
 
 *Dependency manager software for Swift.*
@@ -58,4 +57,4 @@ It outputs the following:
 * [**CocoaPods ★7,736**](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).
 * [Conche ★148](https://github.com/Conche/Conche) - Swift build system and dependency manager.
 * [swift-package-manager ★3,931](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
-```
+
